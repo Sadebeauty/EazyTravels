@@ -173,7 +173,7 @@ h3 {
 footer {
   margin-top: 50px;
   display: flex;
-  background-color: black;
+  background-color: red;
   border-radius: 15px;
   justify-content: center;
 }
