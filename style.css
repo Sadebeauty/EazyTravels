@@ -50,7 +50,8 @@ a {
 .contact {
   background-image: url(Images/lagos.jpg);
   height: 100px;
-  padding: 30px;
+  padding: 20;
+
   font-size: xx-large;
   color: white;
 }
